@@ -22,11 +22,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "HelloAndroid"
-include(":app")
-include(":app")
-include(":app")
-include(":app")
-include(":app")
+rootProject.name = "DanhSachTinhThanh"
 include(":app")
  
